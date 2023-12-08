@@ -14,7 +14,7 @@
 
 [<img src="https://raw.githubusercontent.com/TeamKazukai/TeamKazukai/master/resources/hr.gif"/>](https://github.com/erotixe/erotixe)
 
-<h1> <img src="https://graph.org/file/04c8ef51433c539f33bc4.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://graph.org/file/a0c0df292bdc74a54760e.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class ᴀsʜ ():
