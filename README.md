@@ -14,7 +14,7 @@
 
 [<img src="https://raw.githubusercontent.com/TeamKazukai/TeamKazukai/master/resources/hr.gif"/>](https://github.com/erotixe/erotixe)
 
-<h1> <img src="https://telegra.ph/file/c65b81d75724d6fee2bd1.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://graph.org/file/04c8ef51433c539f33bc4.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class ᴀsʜ ():
@@ -53,18 +53,18 @@ class ᴀsʜ ():
 
 [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://t.me/teamkazukai) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/TeamKazukai/) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/#) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/x.e.n.o.x)
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/phoenix-monarch)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/erotixe)
 
 <h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="ZenoX Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/erotixe)
 
 <h2 align="center"><b>Personal Information 👨‍💻</b></h2>
 
 
-<p align='Middle'><a href='https://t.me/xenxd><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/sewxiy><img src='https://te.legra.ph/file/329cff91cfe957c848cc7.jpg' width='750"'></a></p>
 
   
 <p align="center">
@@ -79,46 +79,4 @@ Class = "12th"
 Age = "17"
 Country = "🇮🇳"
 ```
-
-<details>
-<summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
-<h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
-<br>
-<br>
-
-----
-![GitHub followers](https://img.shields.io/github/followers/phoenix-monarch?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=phoenix-monarch.phoenix-monarch)
-[![Profile views](https://komarev.com/ghpvc/?username=phoenix-monarch&label=Profile%20views)](https://github.com/phoenix-monarch)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=phoenix-monarch)
-  
-<a href="https://github-readme-stats.vercel.app/api?username=phoenix-monarch&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
-    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=phoenix-monarch&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
-
-</a>
-</b></h2>  
-</details>
-
-<details>
-<summary>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠂</summary>
-<h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
-<br>
-<br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-monarch&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-monarch&layout=compact&theme=midnight-purple&hide=Css" />
-</a>
-</b></h2>  
-</details>
-
-<details>
-<summary>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐</summary>
-<h2 align="center"><b>⠂𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎⠐
-  <br>
-  <br>
-  
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikey_7x)
-</details>
-
-
 
