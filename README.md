@@ -9,7 +9,7 @@
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/phoenix-monarch)
 
 <p align="center">
-<img src="https://telegra.ph/file/5bf03c49ed5aebadcbf4f.jpg">
+<img src="https://graph.org/file/04c8ef51433c539f33bc4.jpg">
 </p>
 
 [<img src="https://raw.githubusercontent.com/TeamKazukai/TeamKazukai/master/resources/hr.gif"/>](https://github.com/erotixe/erotixe)
