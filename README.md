@@ -1,6 +1,6 @@
 [<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/erotixe/erotixe)
 
-<h1> <img src="https://graph.org/file/a77aba6a1e0754aaab9a7.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀsʜ </h1>
+<h1> <img src="https://graph.org/file/6b48f8569d8911065bdd8.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀsʜ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
