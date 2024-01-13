@@ -1,6 +1,6 @@
 [<img src="https://github.com/TeamKazukai/TeamKazukai/blob/master/resources/hr.gif"/>](https://github.com/erotixe/erotixe)
 
-<h1> <img src="https://graph.org/file/6b48f8569d8911065bdd8.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀsʜ/мɪкєʏ </h1>
+<h1> <img src="https://graph.org/file/0aaf23ca1047d2c2567e1.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀsʜ/мɪкєʏ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
@@ -9,7 +9,7 @@
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/phoenix-monarch/phoenix-monarch)
 
 <p align="center">
-<img src="https://graph.org/file/67c69daced92075711a83.jpg">
+<img src="https://graph.org/file/467e25640e17777b416cd.jpg">
 </p>
 
 [<img src="https://raw.githubusercontent.com/TeamKazukai/TeamKazukai/master/resources/hr.gif"/>](https://github.com/erotixe/erotixe)
@@ -49,7 +49,7 @@ class ᴀsʜ ():
 
 [<img src="https://github.com/phoenix-monarchblob/master/resources/hr.gif"/>](https://github.com/erotixe)
 
-<h1> <img src="https://graph.org/file/c50769f6ee5fb33aa105b.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://graph.org/file/5307beab3992cf9c65477.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://t.me/exotixe) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/erotixe) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/#) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/x.e.n.o.x)
 
