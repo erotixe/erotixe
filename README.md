@@ -45,7 +45,7 @@ class ᴀsʜ ():
 
 <h1> <img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=erotixe&show_icons=true&theme=radical) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=erotixe&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/erotixe)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=erotixe&show_icons=true&theme=radical)[<img src="https://github-readme-streak-stats.herokuapp.com/?user=erotixe&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/erotixe)
 
 [<img src="https://github.com/phoenix-monarchblob/master/resources/hr.gif"/>](https://github.com/erotixe)
 
